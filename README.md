@@ -1,7 +1,8 @@
-As a web/mobile/desktop programming expert with 10+ years of experience and powerful 
-mathematics/data structures/algorithms design background, I've always designed and built awesome 
-software products based on the strong robust logic, maintainable quality coding and abstraction.
-I regard keeping time and quality as the most important one while in development.
+I like to do solving hard problems and high-difficulty complex coding implementations.
+
+I have good deep knowledges of algorithms/data structures.
+
+I am ready to challenge to your problem.
 
 <!---
 Santa0727/Santa0727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
