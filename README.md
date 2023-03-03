@@ -1,7 +1,5 @@
-I like to do solving hard problems and high-difficulty complex coding implementations.
-
-I have good deep knowledges of algorithms/data structures.
-
+I like to do solving hard problems and high-difficulty complex coding implementations.<br/>
+I have good deep knowledges of Algorithms & DataStructures.<br/>
 I am ready to challenge to your problem.
 
 <!---
