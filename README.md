@@ -1,6 +1,6 @@
-I like to do solving hard problems and high-difficulty complex coding implementations.<br/>
-I have good deep knowledges of Algorithms & DataStructures.<br/>
-I am ready to challenge to your problem.
+💻 I enjoy tackling challenging problems and implementing complex, high-difficulty solutions.<br/>
+📚 I have strong, in-depth knowledge of algorithms and data structures.<br/>
+🚀 I'm always ready to take on new challenges—bring me your toughest problems!
 
 <!---
 Santa0727/Santa0727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
